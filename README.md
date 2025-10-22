@@ -21,7 +21,7 @@ Total GPA of 3.81/4.5, Major GPA of 3.8/4.5
 Fisheye camera(Licho theta) and Lidar(Mid360) 을 가지고 카메라 라이다 캘리브레이션 진행,
 센서 fusion 후, 객체 탐지 모델 추가하여 지게차 사각지대에 대한 위험 해소하고 360도 전역에 대하여 객체 탐지 실행 후 , 위험 감지 알고리즘 구축 설계 진행중 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/assets/img/inhacar_1.jpeg)
 
 ### Morai 기반 자율주행 차량 SLAM & Navigation pipeline 구축
 [Github](https://github.com/AjouInhaTMAH/2025MORAIContest_VEKMUC)
