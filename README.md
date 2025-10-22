@@ -28,15 +28,17 @@ Fisheye camera(Licho theta) and Lidar(Mid360) 을 가지고 카메라 라이다 
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-![Bike Study](/assets/img/car_1.png)
 
 ### 중고차 판별 엔진만들기 - 차량 종류, 년식, Incheon, S.Korea
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-![Bike Study](/assets/img/car_1.png)
 
+<p float="left">
+  <img src="/assets/img/car_1.png" width="48%" alt="Car sample 1"/>
+  <img src="/assets/img/car_1.png" width="48%" alt="Car sample 2"/>
+</p>
 
 
 ### Implemented an Around View Monitoring (AVM) system 
