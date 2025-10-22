@@ -18,15 +18,13 @@
 
 ## Projects
 ### 지게차 운전 안전 리스크 감소(CJ제일제당 산학협력 프로젝트) 
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
 Fisheye camera(Licho theta) and Lidar(Mid360) 을 가지고 카메라 라이다 캘리브레이션 진행,
 센서 fusion 후, 객체 탐지 모델 추가하여 지게차 사각지대에 대한 위험 해소하고 360도 전역에 대하여 객체 탐지 실행 후 , 위험 감지 알고리즘 구축 설계 진행중 
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Morai 기반 자율주행 차량 SLAM & Navigation pipeline 구축
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+[Github](https://github.com/AjouInhaTMAH/2025MORAIContest_VEKMUC)
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
