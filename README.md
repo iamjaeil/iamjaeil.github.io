@@ -16,6 +16,7 @@ Total GPA of 3.81/4.5, Major GPA of 3.8/4.5
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
+
 ## Projects
 ### 지게차 운전 안전 리스크 감소(CJ제일제당 산학협력 프로젝트) 
 Fisheye camera(Licho theta) and Lidar(Mid360) 을 가지고 카메라 라이다 캘리브레이션 진행,
@@ -34,11 +35,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-
-<p float="left">
-  <img src="/assets/img/car_1.png" width="48%" alt="Car sample 1"/>
-  <img src="/assets/img/car_1.png" width="48%" alt="Car sample 2"/>
-</p>
+[![Car1](/assets/img/icar1.jpeg)](/assets/img/icar1.jpeg) [![Car2](/assets/img/icar2.jpeg)](/assets/img/icar2.jpeg)
 
 
 ### Implemented an Around View Monitoring (AVM) system 
