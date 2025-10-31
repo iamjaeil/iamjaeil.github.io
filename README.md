@@ -2,7 +2,7 @@
 #### Technical Skills: Python, C++, Matlab, Ros1, Gazebo
 
 ## Education
-Total GPA of 3.81/4.5, Major GPA of 3.8/4.5
+
 - B.S., Smart Mobility Engineering | The University of Inha (_2023 - Present_)								       		
 - B.S., Mechanical Engineering | The University of KoreaTech (_2019 - 2022_)	 			        		
 
